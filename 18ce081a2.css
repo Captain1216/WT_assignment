@@ -1,0 +1,45 @@
+body{
+	background-color: #8ed1e6;
+
+}
+img{
+	float:left;
+	height:70px;
+	width: 70px;
+}
+header{
+	font-style: Brush Script MT;
+	font-size:25px;
+	background-color: #3b5787;
+	color: white;
+}
+table{
+	border-radius: 5px;
+	border-color:white;
+}
+.one{
+	background-color: #7e9bcc;
+	color: #ebd834;
+	font-style: Brush Script MT;
+}
+.two{
+	background-color: #44ab65;
+
+}
+.three{
+	background-color:#de5c3c;
+	color:#0ff73d;
+	text-align:center;
+
+}
+.four{
+	background-color:#e39856;
+	color:black;
+	text-align:center;
+}
+.five{
+	background-color:background-color: #3b5787;
+	color:white;
+	text-align: center;
+	font-size:15px;
+}
